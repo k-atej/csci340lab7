@@ -1,4 +1,4 @@
-@page
+@page "{searchString?}"
 @model RazorPagesMovie.Pages.Books.IndexModel
 
 @{
@@ -10,11 +10,25 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+
+<form>
+    <p>
+        <select asp-for="MovieGenre" asp-items="Model.Genres">
+            <option value="">All</option>
+        </select>
+        Title: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
 <table class="table">
     <thead>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Book[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book[0].Author)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Book[0].ReleaseDate)
@@ -34,6 +48,9 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ReleaseDate)
             </td>
