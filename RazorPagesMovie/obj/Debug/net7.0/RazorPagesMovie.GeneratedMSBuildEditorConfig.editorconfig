@@ -16,32 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/katejackson/Desktop/csci340lab7/RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0NyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Movies/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Movies/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Movies/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0VkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Movies/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/katejackson/Desktop/csci340lab7/RazorPagesMovie/Pages/Privacy.cshtml]
